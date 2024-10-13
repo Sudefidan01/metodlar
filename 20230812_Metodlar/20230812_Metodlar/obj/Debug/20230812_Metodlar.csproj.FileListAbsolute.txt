@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar\20230812_Metodlar\bin\Debug\20230812_Metodlar.exe.config
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar\20230812_Metodlar\bin\Debug\20230812_Metodlar.exe
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar\20230812_Metodlar\bin\Debug\20230812_Metodlar.pdb
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar\20230812_Metodlar\obj\Debug\20230812_Metodlar.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar\20230812_Metodlar\obj\Debug\20230812_Metodlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar\20230812_Metodlar\obj\Debug\20230812_Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar\20230812_Metodlar\obj\Debug\20230812_Metodlar.exe
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar\20230812_Metodlar\obj\Debug\20230812_Metodlar.pdb
